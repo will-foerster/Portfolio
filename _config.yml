@@ -1,0 +1,5 @@
+my-website/
+├── _config.yml
+├── src/
+│   └── index.html
+└── ...
