@@ -1,5 +1,4 @@
 Portfolio/
-├── _config.yml
-├── src/
-│   └── index.html
-└── ...
+    _config.yml
+    src/
+        index.html
